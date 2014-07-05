@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListDialogExample</string>
+    <!-- Order is important here: -->
+    <string-array name="country_names">
+        <item>\u00A0\u00A0+1 United States"</item>
+        <item>+45 Denmark</item>
+        <item>+46 Sweden</item>
+        <item>+47 Norway</item>
+    </string-array>
+
+    <string-array name="country_codes">
+        <item>1</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+    </string-array>
+
+    <string-array name="country_flags">
+        <item>@drawable/usa</item>
+        <item>@drawable/denmark</item>
+        <item>@drawable/sweden</item>
+        <item>@drawable/norway</item>
+    </string-array>
+</resources>
